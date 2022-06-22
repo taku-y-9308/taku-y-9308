@@ -5,6 +5,10 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=taku-y-9308&theme=onedark&show_icons=ture" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=taku-y-9308&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **taku-y-9308/taku-y-9308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
