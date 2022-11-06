@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently learning Vuejs
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taku-y-9308&layout=compact&show_icons=true&theme=onedark" />
